@@ -1,3 +1,5 @@
+Hello, I'm Praveen Kumar Singh 👋
+
 # 💫 About Me:
 🔭 I’m currently working on Full Stack developer<br>👯 I’m looking to collaborate on LinkedIn<br>🌱 I’m currently learning Node.js<br>💬 Ask me about anything, I would like to share.<br>⚡ Fun fact: The demand for software engineers is constantly growing.
 
