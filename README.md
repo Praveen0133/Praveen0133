@@ -1,8 +1,7 @@
 Hello, I'm Praveen Kumar Singh 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack developer<br>👯 I’m looking to collaborate on LinkedIn<br>🌱 I’m currently learning Node.js<br>💬 Ask me about anything, I would like to share.<br>⚡ Fun fact: The demand for software engineers is constantly growing.<br>
-📫 How to reach me praveenkumarsingh034@gmail.com
+Hello, I'm a web developer with a proven ability to create intuitive, visually engaging web applications. I specialize in tackling cross-browser compatibility, optimizing websites for performance, and crafting responsive designs that look great on any device. With a knack for code efficiency and boosting productivity, I thrive in collaborative settings and excel under pressure. I bring strong technical, analytical, and communication skills to every project, always approaching challenges with a proactive, problem-solving mindset.
 
 
 
